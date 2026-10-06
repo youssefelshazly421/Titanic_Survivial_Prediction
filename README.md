@@ -37,17 +37,17 @@ Machine Learning project to predict whether a passenger survived the Titanic dis
 
 ## 📊 Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Random_forest_Confusion Matrix](Random_forest.png)
 
 ## 📈 Data Visualization
 
 The project includes visualizations to explore the relationship between passenger features and survival.
 
-![Titanic Data Visualization](data_visualization.png)
+![Titanic Data Visualization](Feature_coefficient_magnitude.png)
 
 ## 🌐 Web Interface
 
 The project includes a simple web interface built with **Streamlit**. Users can enter passenger information and the trained model predicts whether the passenger survived or did not survive.
 
-![Titanic Survival Prediction](Web_Interface.png)
+![Titanic Survival Prediction](streamlit_interface.png)
 
