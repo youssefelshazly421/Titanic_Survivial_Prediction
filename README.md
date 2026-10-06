@@ -1,2 +1,53 @@
-# Titanic_Survivial_Prediction
-This project uses the Titanic dataset to predict whether passengers survived the disaster. It includes data cleaning, analysis, visualization, and machine learning. The model uses features such as age, gender, passenger class, and fare to predict survival.
+# Titanic Survival Prediction
+
+## Description
+
+Machine Learning project to predict whether a passenger survived the Titanic disaster based on passenger information.
+
+## Technologies
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Streamlit
+
+## Steps
+
+* Data loading and exploration
+* Data preprocessing and cleaning
+* Handling missing values
+* Feature selection
+* Data visualization
+* Model training
+* Model evaluation
+* Building a web interface using Streamlit
+
+## Model
+
+* Logistic Regression
+
+## Evaluation
+
+* Accuracy
+* Classification Report
+* Confusion Matrix
+
+## 📊 Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+## 📈 Data Visualization
+
+The project includes visualizations to explore the relationship between passenger features and survival.
+
+![Titanic Data Visualization](data_visualization.png)
+
+## 🌐 Web Interface
+
+The project includes a simple web interface built with **Streamlit**. Users can enter passenger information and the trained model predicts whether the passenger survived or did not survive.
+
+![Titanic Survival Prediction](Web_Interface.png)
+
